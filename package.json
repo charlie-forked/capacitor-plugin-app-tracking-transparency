@@ -1,5 +1,6 @@
 {
-  "name": "capacitor-plugin-app-tracking-transparency",
+  "name": "@charliecat/capacitor-plugin-app-tracking-transparency",
+  "private": false,
   "version": "2.0.5",
   "description": "Capacitor plugin to request user authorization to access app-related data for tracking the user or the device.",
   "main": "dist/plugin.cjs.js",
@@ -14,7 +15,7 @@
     "ios/Plugin/",
     "CapacitorPluginAppTrackingTransparency.podspec"
   ],
-  "author": "Manuel Heidrich",
+  "author": "Charlie <meow@charliecat.space>",
   "contributors": [
     {
       "name": "Manuel Heidrich",
@@ -25,7 +26,12 @@
       "name": "prototype.berlin GmbH",
       "email": "info@prototype.berlin",
       "url": "https://www.prototype.berlin"
-    }
+    },
+	{
+		"name": "CharlieCat",
+		"email": "meow@charliecat.space",
+		"url": "https://charliecat.space"
+	  }
   ],
   "license": "MIT",
   "repository": {
