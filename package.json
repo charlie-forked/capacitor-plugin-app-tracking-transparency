@@ -13,7 +13,7 @@
   "files": [
     "dist/",
     "ios/Plugin/",
-    "CapacitorPluginAppTrackingTransparency.podspec"
+    "CharliecatCapacitorPluginAppTrackingTransparency.podspec"
   ],
   "author": "Charlie <meow@charliecat.space>",
   "contributors": [
