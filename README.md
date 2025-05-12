@@ -99,10 +99,10 @@ Both available methods return `AppTrackingStatusResponse` with `status: AppTrack
 ### getStatus()
 
 ```typescript
-getStatus() => Promise<AppTrackingStatusResponse>
+getStatus() => any
 ```
 
-**Returns:** <code>Promise&lt;<a href="#apptrackingstatusresponse">AppTrackingStatusResponse</a>&gt;</code>
+**Returns:** <code>any</code>
 
 --------------------
 
@@ -110,10 +110,10 @@ getStatus() => Promise<AppTrackingStatusResponse>
 ### requestPermission()
 
 ```typescript
-requestPermission() => Promise<AppTrackingStatusResponse>
+requestPermission() => any
 ```
 
-**Returns:** <code>Promise&lt;<a href="#apptrackingstatusresponse">AppTrackingStatusResponse</a>&gt;</code>
+**Returns:** <code>any</code>
 
 --------------------
 
